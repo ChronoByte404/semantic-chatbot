@@ -9,6 +9,11 @@ Clone the directory:
 gh repo clone Cipher58/semantic-chatbot
 ```
 
+Install the requirements:
+```bash
+python3 -m pip install -r requirements.txt
+```
+
 CD into the directory:
 ```bash
 cd ~/semantic-chatbot
